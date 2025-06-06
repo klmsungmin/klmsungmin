@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=좋은아침이에요&fontAlign=50&fontAlignY=40&fontSize=40">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=좋은아침이에요.&fontAlign=50&fontAlignY=40&fontSize=40">
 
 # Stacks
 
